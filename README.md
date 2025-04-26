@@ -1,8 +1,8 @@
 # Ex-03-Linux-Commands
 
-Name: NETHRAA J
+Name: V ANISHA
 
-Reg. No.: 212222100031
+Reg. No.: 212224040023
 
 
 ## Aim:
